@@ -1,4 +1,6 @@
 spring:
+  application:
+    name: spring-security-jwt-example
   h2:
     console:
       enabled: true
