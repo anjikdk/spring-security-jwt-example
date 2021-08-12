@@ -1,7 +1,8 @@
-package com.javatechie.jwt.api.config;
+package com.anjikdk.jwt.api.config;
 
-import com.javatechie.jwt.api.filter.JwtFilter;
-import com.javatechie.jwt.api.service.CustomUserDetailsService;
+import com.anjikdk.jwt.api.filter.JwtFilter;
+import com.anjikdk.jwt.api.service.CustomUserDetailsService;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

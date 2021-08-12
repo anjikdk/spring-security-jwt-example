@@ -1,7 +1,8 @@
-package com.javatechie.jwt.api;
+package com.anjikdk.jwt.api;
 
-import com.javatechie.jwt.api.entity.User;
-import com.javatechie.jwt.api.repository.UserRepository;
+import com.anjikdk.jwt.api.entity.User;
+import com.anjikdk.jwt.api.repository.UserRepository;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
